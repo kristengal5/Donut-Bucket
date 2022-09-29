@@ -1,0 +1,249 @@
+/*Kristen Gallagher*/
+a{
+	text-decoration: none;
+	color: #6A3433;
+}
+a#bottom{
+	text-decoration: none;
+	color: #6A3433;
+}
+a#different{
+	/*color hex*/
+	color: #6A3433;
+}
+a#different:hover {
+	/*color word*/
+	color: white;
+	font-weight: 700;
+}
+a:hover{
+	color: #6dcfac;
+}
+a#order{
+	color: white;
+}
+a#order:hover{
+	color: white;
+	font-weight: 700;
+}
+.bar{
+	/*height and width*/
+	width:3px;
+	height: 50px;
+	background-color: #6A3433;
+}
+.box{
+	height: 70px;
+	background-color: #fcdeba;
+	font-size: 50px;
+	font-family: 'Rochester', display;
+	color: #6A3433;
+	letter-spacing: 10px;
+	padding-left: 40px;
+	display: inline;
+}
+.boxbottom{
+	height: 100px;
+	background-color: #fcdeba;
+}
+.boxlong{
+	width: 100%;
+	height: 70px;
+	padding-top: 2px;
+	background-color: #be522733; 
+	display: inline;
+	float: left;
+}
+.boxrounded{
+	width: 250px;
+	height: 280px;
+	border-radius: 20px;
+	background-color: #6dcfac;
+	margin: 45px;
+	margin-top: 20px;
+	margin-bottom: 35px;
+}
+.box3{
+	width:97.2%;
+	height: 80px;
+	background-color: #6dcfac;
+	font-family: 'Rochester', display;
+	color: #6A3433;
+	letter-spacing: 10px;
+	padding-top: 418px;
+	padding-left: 40px;
+	font-size: 40px;
+}
+.box2{
+	width: 25%;
+	height: 400px;
+	background-color: #be5227;
+	display: inline;
+	float: left;
+}
+#fixedfooter {
+	/*position*/
+	position: fixed;
+	width: 100%;
+	bottom: 0;
+	background-image: url("./images/wood.png");
+	height: 15px;
+}
+#fixednav {
+	position: fixed;
+	width: 100%;
+	top: 0;
+	background-color: white;
+}
+h1{
+	color: #6A3433;
+	font-size: 30px;
+	font-family: 'Flamenco', display;
+	letter-spacing: 10px;
+	padding-left: 40px;
+}
+img{
+	display: inline;
+}
+.label{
+	font-family: 'Flamenco', display;
+	font-size: 30px;
+	color: #6A3433;
+	padding-top: 5px;
+	letter-spacing: 3px;
+	margin: center;
+	align: center;
+	text-align: center;
+	display: inline;
+}
+
+.labels{
+	font-family: 'Flamenco', display;
+	font-size: 30px;
+	color: #6A3433;
+	padding-top: 5px;
+	margin: center;
+	align: center;
+	text-align: center;
+}
+.logo{
+	height: 5px;
+	width: 5px;
+}
+.loyalty{
+	width: 320px;
+	height: 70px;
+	font-size: 45px;
+	border-radius: 20px;
+	overflow: hidden;
+	background-color: #6dcfac;
+	/*margin*/
+	margin: auto;
+	/*padding*/
+	padding-top: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.mainimage{
+	width: 75%;
+	height: 400px;
+	/*float*/
+	float: right;
+	/*display*/
+	display: inline;
+	background-image: url("./images/mainimage.png");
+	z-index: 99;
+	background-repeat: no-repeat;
+}
+.order{
+	width: 300px;
+	height: 40px;
+	border-radius: 15px;
+	overflow: hidden;
+	background-color: #be5227;
+	margin: auto;
+	padding-top: 10px;
+	padding-left: 1px;
+	padding-right: 5px;
+	padding-bottom: 2px;
+	letter-spacing: 2px;
+}
+#smallspecials{
+	font-size: 30px;
+	font-family: 'Flamenco', display;
+	color: white;
+	padding-top: 5px;
+}
+.spacer{
+	width: 18px;
+	float: left;
+	display: inline;
+}
+.spacer8{
+	height: 65px;
+}
+.spacer5{
+	width: 100px;
+}
+.spacer4{
+	height: 400px;
+}
+.spacer9{
+	width: 28px;
+}
+.spacer7{
+	width: 120px;
+}
+.spacer6{
+	height: 3px;
+}
+.spacer3{
+	height: 30px;
+}
+.spacer2{
+	height: 140px;
+}
+#specials{
+	font-size: 50px;
+	font-family: 'Flamenco', display;
+	color: white;
+	/*text-align property*/
+	text-align: center;
+	padding-top: 10px;
+}
+.stripInfo{
+	width: 100%;
+	height: 70px;
+	background-color: #6dcfac;
+	position: fixed;
+	bottom:10;
+	padding-top: 3px;
+}
+.table {
+	font-family: 'Flamenco', display;
+	font-size: 40px;
+	color: #6A3433;
+	z-index:1;
+	text-align: center;
+}
+.table2{
+	font-size: 40px;
+	color: #6A3433;
+	text-align: center;
+	font-family: 'Flamenco', display;
+}
+.text{
+	padding-left: 40px; 
+	color: #6A3433;
+	font-family: 'Flamenco', display; 
+	display:inline;
+	text-align: center;
+}
+.together{
+	width: 100%;
+	margin: auto;
+}
+.togetherbottom{
+	margin-right: auto;
+	margin-left: auto;
+}
